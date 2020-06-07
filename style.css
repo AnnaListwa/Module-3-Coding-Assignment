@@ -1,0 +1,8 @@
+* {
+border: border-box;
+}
+
+.navbar {
+color: #66CC66;
+border: double #CCFF99 2px;
+}
