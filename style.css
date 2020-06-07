@@ -18,7 +18,8 @@ text-align: center;
 
 .navbar {
 background-color: #66CC66;
-border: double #CCFF99 2px;
+border: 0;
+border-radius: 0;
 }
 
 h2 {margin-block-start: 0; margin-block-end: 0; font-size: 125%; color: #FFFFFF; text-align: center; border: 1px solid #000000;}
