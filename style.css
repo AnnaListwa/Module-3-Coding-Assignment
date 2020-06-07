@@ -43,6 +43,10 @@ main {
   background-color: #D7CCC8;
 }
 
+main h1 {
+  color: #FFFFFF
+}
+
 .chicken {
 background-color: #CDDC39;
 padding: 20px;  
