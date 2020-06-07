@@ -4,13 +4,12 @@ margin: 0;
 box-sizing: border-box; 
 margin-block-start: 0; 
 margin-block-end: 0; 
-font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-family: 'Montaga', serif;
 }
 
 body {
   width: 100%; 
   margin: 0;
-  font-family: 'Montaga', serif;
   color: #FFFFFF;
   background-color: #D7CCC8;
 }
