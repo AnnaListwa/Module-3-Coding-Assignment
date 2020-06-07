@@ -16,8 +16,8 @@ body {
 header {
 width: 100%; 
 font: 175% #689F38; 
-font-variant: small-caps; 
-text-align: center;
+font-variant: small-caps;
+margin-bottom: 20px;  
 }
 
 #header-nav {
