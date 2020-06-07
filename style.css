@@ -30,9 +30,9 @@ border-radius: 0;
 .navbar-brand h1 {
 margin-block-start: 0; 
 margin-block-end: 0; 
-font-size: 125%; 
+font-size: 175%; 
 color: #FFFFFF;
-text-shadow: 2px 2px 2px #BCAAA4;
+text-shadow: 3px 3px -3px #BCAAA4;
 line-height: .75em;
 }
 
