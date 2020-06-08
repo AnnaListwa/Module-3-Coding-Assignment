@@ -49,9 +49,11 @@ text-align: justify;
 }
 
 @media (max-width: 575px) {
+  div.chicken {
   margin-left: 50px;
   margin-right: 50px;
 }
+}  
 
 div.chicken.col-sm-12 {
   margin-left: auto;
