@@ -67,4 +67,7 @@ text-align: justify;
   margin-left: auto;
   margin-right: auto;
 }
-  
+
+li {
+  background-color: #E91E63;
+}
