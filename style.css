@@ -44,7 +44,8 @@ main h1 {
 .chicken {
 background-color: #B2DFDB;
 padding: 50px;
-color: #FFFFFF;   
+color: #FFFFFF;
+text-align: justify;  
 }
 
 .col-xs-12 {
