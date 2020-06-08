@@ -16,8 +16,7 @@ body {
 header {
 width: 100%; 
 font: 175% #689F38; 
-font-variant: small-caps;
-margin-bottom: 20px;  
+font-variant: small-caps;  
 }
 
 #header-nav {
@@ -44,11 +43,13 @@ main {
 }
 
 main h1 {
-  color: #FFFFFF
+  color: #FFFFFF;
+  padding: 50px;
 }
 
 .chicken {
-background-color: #CDDC39;
-padding: 20px;  
+background-color: #B2DFDB;
+padding: 50px;
+color: #FFFFFF;   
 }
   
