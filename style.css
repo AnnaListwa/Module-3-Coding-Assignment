@@ -37,6 +37,10 @@ main {
   background-color: #D7CCC8;
 }
 
+div.container {
+margin: 0;
+}
+
 main h1 {
   color: #FFFFFF;
   padding: 50px;
